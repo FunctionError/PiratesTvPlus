@@ -1,0 +1,118 @@
+Channel Name
+Somoy TV News,Bangladeshi
+Channel I News,Bangladeshi
+Jamuna TV,Bangladeshi
+Rtv News,Bangladeshi
+Independent Television,Bangladeshi
+Ekattor Television,Bangladeshi
+ATN News,Bangladeshi
+BanglaVision,Bangladeshi
+Channel 24,Bangladeshi
+Ntv Live,Bangladeshi
+Ekhon Live,Bangladeshi
+DBC Live,Bangladeshi
+BTV LIVE,Bangladeshi
+MYTV Live,Bangladeshi
+Deshtv News,Bangladeshi
+News 24 Extra,Bangladeshi
+Maasranga News,Bangladeshi
+BTV Chattogram,Bangladeshi
+BTV Sangsad,Bangladeshi
+ATN Bangla UK,Bangladeshi
+Ekushey TV,Bangladeshi
+Deepto TV,Bangladeshi
+Mohona TV,Bangladeshi
+Bangla TV,Bangladeshi
+Bangla TV Europe,Bangladeshi
+Anando TV,Bangladeshi
+Boishakhi TV,Bangladeshi
+CHANNEL S HD,Bangladeshi
+Green TV,Bangladeshi
+Duronto TV,Bangladeshi
+Jago News 24,Bangladeshi
+Ruposhi Bangla,Bangladeshi
+Amar Bangla,Indian Bangla
+Amar Digital,Indian Bangla
+Enter 10 Bangla,Indian Bangla
+Ruposhi Bangla,Indian Bangla
+Khushboo Bangla,Indian Bangla
+Colors Bangla,Indian Bangla
+Star Jalsha SD,Indian Bangla
+Star Jalsha HD,Indian Bangla
+Zee Bangla SD,Indian Bangla
+Zee Bangla HD,Indian Bangla
+Colors UK,Indian Entertainment
+Colors HD,Indian Entertainment
+Colors Rishtey,Indian Entertainment
+Zee TV,Indian Entertainment
+Zee Anmol,Indian Entertainment
+And TV,Indian Entertainment
+Colors Infinity SD,Indian Entertainment
+The Movie Club,Movies
+South Station,Movies
+Zee Cinema HD,Movies
+Zee Cinema UK,Movies
+Zee Action,Movies
+Zee Anmol Cinema,Movies
+Zee Cinemalu,Movies
+Colors Cineplex,Movies
+Colors Cineplex Bollywood,Movies
+Colors Cineplex Superhit,Movies
+And Pictures HD,Movies
+Sheemaroo Bollywood,Movies
+Manoranjan Movies,Movies
+BFlix Movies,Movies
+Al Jazeera English,International News
+Reuters,International News
+WINO,International News
+DW News,International News
+CNA,International News
+RTV Music,Music
+ATN Music,Music
+Joo Music,Music
+Nat Geo WILD,Informative
+Discovery HD Multi Audio,Informative
+Discovery Bangla HD,Informative
+Discovery Hindi HD,Informative
+Discovery Science Multi Audio,Informative
+Investigation Discovery Multi Audio,Informative
+Animal Planet,Informative
+DMAX,Informative
+Discover Pakistan TV,Informative
+Wild Earth,Informative
+Travel XP GB,Travel
+Travel XP English NL,Travel
+Travel XP English EU,Travel
+Travel XP English NZ,Travel
+Travel XP English SE,Travel
+Travel Channel,Travel
+Love nature,Travel
+Food Network,Foods
+Food Food,Foods
+HG TV,Foods
+TLC HD,Foods
+CGTN Documentary,Foods
+T Sports HD,Sports
+Astro Crickt HD,Sports
+ATN AFG TV,Sports
+Star Sports 1 Hindi,Sports
+Star Sports 1,Sports
+Star Sports Select 1,Sports
+Star Sports Select 2,Sports
+Star Sports Select 2,Sports
+WILLOW EXTRA,Sports
+Event TV,Sports
+Redbull TV,Sports
+Star Sports 1 HD,Sports
+Sports 18 1 SD,Sports
+Eurosport,Sports
+PTV Sports,Sports
+A Sports,Sports
+Ten Sports PK,Sports
+Fast Sports,Sports
+MU TV,Sports
+Real Madrid TV,Sports
+Sony Kal,Kids
+Cartoon Network,Kids
+
+
