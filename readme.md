@@ -42,7 +42,7 @@ This script is designed to merge and keep up-to-date m3u links collected from pu
 Primarily focused on Bangladeshi users (Use Vlc for PC)
 
 ```bash
-https://raw.githubusercontent.com/FunctionError/PiratesTvPlus/main/piratesplus.m3u
+https://raw.githubusercontent.com/FunctionError/PiratesTvPlus/main/PiratesPlus.m3u
 ```
 
 
