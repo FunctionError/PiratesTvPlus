@@ -44,7 +44,7 @@ def check_channel_status(url):
     except requests.RequestException:
         return False
 
-def write_m3u(output_file, channels):
+def write_m3u(output_file, channels, custom_categories):
     with open(output_file, 'w', encoding='utf-8') as file:
         file.write("#EXTM3U\n")
         file.write("# All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch\n")
@@ -52,8 +52,9 @@ def write_m3u(output_file, channels):
             url = data['url']
             logo = data['logo']
             category = data['category']
+            custom_category = custom_categories.get(category, category)  
             source = data['source']
-            file.write(f"#EXTINF:-1 tvg-logo=\"{logo}\" tvg-category=\"{category}\",{name}\n")
+            file.write(f"#EXTINF:-1 tvg-logo=\"{logo}\" group-title=\"{custom_category}\",{name}\n")
             file.write(f"{url}\n")
 
 def main():
@@ -76,8 +77,16 @@ def main():
     # Filter channels based on channel categories and status
     filtered_channels = filter_channels(playlist_sources, channel_categories)
 
+    # Read custom categories from channels.txt
+    custom_categories = {}
+    with open(channels_file, 'r', encoding='utf-8') as file:
+        for line in file:
+            parts = line.strip().split(',')
+            if len(parts) == 2:
+                custom_categories[parts[1]] = parts[1]
+
     # Write filtered channels to output M3U file
-    write_m3u(output_file, filtered_channels)
+    write_m3u(output_file, filtered_channels, custom_categories)
 
 if __name__ == "__main__":
     main()
