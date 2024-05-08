@@ -19,7 +19,7 @@ This script is designed to merge and keep up-to-date m3u links collected from pu
   </a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFunctionError%2FPiratesTvPlus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-![Logo](https://i.ibb.co/zNsRhgv/Pirates-Tv-plus.png)
+![Logo](https://i.ibb.co/pfvmRbp/Pirates-Tv-4.png)
 
 
 ## Authors
@@ -34,7 +34,7 @@ This script is designed to merge and keep up-to-date m3u links collected from pu
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/ssVqx8c/ssofvlc.png)
+![App Screenshot](https://i.ibb.co/18PjmFB/photo-2024-05-08-14-12-45.jpg)
 
 
 ## Playlist Links 👇
