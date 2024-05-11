@@ -97,11 +97,11 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="Sports",Eurosports HD
 https://od.lk/s/ODRfNzIxOTM2OTdf/Eurosport_HD_English.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png" group-title="Sports",PTV Sports
-http://121.91.61.106:8000/play/a00l/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png" group-title="Sports",A Sports
-http://121.91.61.106:8000/play/a03o/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png" group-title="Sports",Ten Sports PK
-http://121.91.61.106:8000/play/a04h/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Sports",Fast Sports
 http://121.91.61.106:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
@@ -191,7 +191,7 @@ http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="Informative",Nat Geo HD Multi Audio(BD)
 http://148.113.5.31:8106/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png" group-title="Informative",Nat Geo Wild(BD)
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+http://148.113.5.31:8106/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Informative",Wild Earth(BD)
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Movies",Hollywood HD(BD)
@@ -204,8 +204,6 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLtHgwSV/Logo-Global-Television.png" group-title="Bangladeshi",Global TV
 http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhCFJyK6/b-logo.png" group-title="Religious",Madani Channel Bangla
-http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
 http://103.151.60.214:7444/1101/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",GAZI TV
