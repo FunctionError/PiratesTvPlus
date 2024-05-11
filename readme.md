@@ -77,6 +77,7 @@ This repository collects m3u files collected from multiple public sources. There
 - [@FunctionError](https://www.github.com/FunctionError)
 
 - [@subir](https://github.com/subirkumarpaul/)
+- [@byte-capsule](https://github.com/Jeshan-akand/)
 
 - ### 
 
