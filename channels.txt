@@ -154,11 +154,6 @@ Pogo,Kids
 Zoo Moo,Kids
 Religious
 Madani Channel Bangla,Religious
+ABP Ananda,Indian News
 Live Sports
-Live Sports PSL LIVE,Live Sports
-Live Sports T Sports,Live Sports
-Live Sports Star Sports 2,Live Sports
-Live Sports Star Sports Select 2,Live Sports
-Live Sports Star Sports Select 2,Live Sports
-Live Sports Sony Ten 2 HD,Live Sports
-Live Sports Sony Ten 5 HD,Live Sports
+
