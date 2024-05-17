@@ -71,7 +71,7 @@ http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLtHgwSV/Logo-Global-Television.png" group-title="Bangladeshi",Global TV
 http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3nqLj0g/Green-TV-Logo.png" group-title="Bangladeshi",Green TV
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhCFJyK6/b-logo.png" group-title="Religious",Madani Channel Bangla
 http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qTZLLY3/4imblNY.jpg" group-title="Bangladeshi",Mohona TV
