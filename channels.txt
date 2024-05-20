@@ -14,7 +14,7 @@ DBC Live,Bangladeshi
 BTV LIVE,Bangladeshi
 MYTV Live,Bangladeshi
 Deshtv News,Bangladeshi
-News 24 Extra,Bangladeshi
+News 24,Bangladeshi
 Maasranga News,Bangladeshi
 BTV Chattogram,Bangladeshi
 BTV Sangsad,Bangladeshi
@@ -155,5 +155,6 @@ Zoo Moo,Kids
 Religious
 Madani Channel Bangla,Religious
 ABP Ananda,Indian News
+ABP NEWS,Indian News
 Live Sports
 
