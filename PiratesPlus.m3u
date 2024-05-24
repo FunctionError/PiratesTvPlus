@@ -49,7 +49,7 @@ http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="Bangladeshi",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangladeshi",Deepto TV
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="Bangladeshi",Mohona TV
 http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangladeshi",Bangla TV
@@ -73,7 +73,7 @@ http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg" group-title="Bangladeshi",Jago News 24
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="Music",ATN Music
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla",Amar Bangla
 https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla",Amar Digital
@@ -117,7 +117,7 @@ http://121.91.61.106:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png" group-title="Sports",Ten Sports PK
 http://121.91.61.106:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Sports",Fast Sports
-http://121.91.61.106:8000/play/a042/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Sports",Real Madrid TV
