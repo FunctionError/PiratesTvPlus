@@ -94,8 +94,6 @@ http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" group-title="Sports",Star Sports Select 1
 http://starshare.live:8080/live/Sylvia/Sylvia/98867.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" group-title="Sports",Star Sports Select 2
-http://starshare.live:8080/live/Sylvia/Sylvia/98867.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="Sports",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png" group-title="Sports",PTV Sports
