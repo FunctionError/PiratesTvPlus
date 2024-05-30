@@ -48,10 +48,16 @@ http://starshare.live:8080/live/Sylvia/Sylvia/98864.m3u8
 http://starshare.live:8080/live/Sylvia/Sylvia/98.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="Bangladeshi",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangladeshi",Deepto TV
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangladeshi",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangladeshi",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="Bangladeshi",Boishakhi TV
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="Bangladeshi",Green TV
+https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg" group-title="Bangladeshi",CHANNEL S HD
 https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg" group-title="Bangladeshi",Jago News 24
@@ -87,8 +93,6 @@ http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg" group-title="Sports",Star Sports Select 1
-http://starshare.live:8080/live/Sylvia/Sylvia/98867.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" group-title="Sports",Star Sports Select 2
 http://starshare.live:8080/live/Sylvia/Sylvia/98867.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="Sports",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
