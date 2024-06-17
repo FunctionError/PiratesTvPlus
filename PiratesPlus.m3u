@@ -42,8 +42,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718663100/ei/X
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718663101/ei/XGNwZvuhPMD0sfIPzuy_-AE/ip/52.157.14.166/id/ioap61Rj1MQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzmI56Wxc05rhrkJlBBgTwEjUeW9Mfj5Gedo4ETwRS5nsO5L0g1l4Y_8Gvg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgdHVa816E3uX8P5c1fcta1wCyJOxQDYecd8coRP1xnXUCIQCo8ry2S1_4q7preg0fW1y-NN9XTK58tXU57fqpvXzCnQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k_0j90OAP3tEuBLbhr8eMPB7Dgu-xgLi3xFzG2KH0OtLKX=s176-c-k-c0x00ffffff-no-rj" group-title="Indian News",ABP NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718663101/ei/XWNwZsfAJNe6sfIPj5Ky4AE/ip/52.157.14.166/id/W72Ad5HUC5Q.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181254/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-RZh5jwvREnBCmQTrZv7CUap9MrPnYCZjAmIFioqlaE9fzOGalcfLL_0Lw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaQS1SQ9F8dDvqLNbUt3gM7MhQ2giCNIDKjfuFep8FewCIQD0pJLVhgLMYfSK1QnAeYGJTJuBvXmA01K3IYoq2TISDQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Sports",Star Sports 1 HD
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg" group-title="Sports",Star Sports 1 HD
+https://tv5.hoichoi24.com/1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="Bangladeshi",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangladeshi",Deepto TV
@@ -56,6 +56,10 @@ https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="Bangladeshi",Green TV
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg" group-title="Bangladeshi",CHANNEL S HD
+https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg" group-title="Bangladeshi",Jago News 24
+https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="Music",ATN Music
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla",Amar Bangla
