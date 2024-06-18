@@ -42,16 +42,14 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718738539/ei/C
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718738539/ei/C4pxZoeYHNazkucPob-qkAM/ip/20.81.159.198/id/O2Qm3VOsH1o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1JFHI8m2cjOGf3YmxP0XbtAk7eW_TZkP6FIWHmGigxgHm65sOalh6i72lk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgapEC5XdkVhavQhXLlzp-AQAKt8Gfwc6nyFZ4lMnVeYgCIC5LDnFKxw8qtCeFIaAk6zeqdP9Di8OzF1gmOo2y8vT0/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k_0j90OAP3tEuBLbhr8eMPB7Dgu-xgLi3xFzG2KH0OtLKX=s176-c-k-c0x00ffffff-no-rj" group-title="Indian News",ABP NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718738540/ei/DIpxZrO6CZKJkucPz-KpkAk/ip/20.81.159.198/id/qCNf1cMZhbo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fy3CBoKJTAgwvOi6hNfegqcp-C2IT2bGPw-W7e-eYS2ZdQASBQWJZxNKrWY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMsFGhblYElVGzngtkbrg3ahIKDWdpQ3Gfeg2Kzv9N9oAiEA-KcB5AOt_YaeJHRMeQib6pPYmX8d93h_Yt5cRyWFJJc%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Sports",Star Sports 1 HD
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="Bangladeshi",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangladeshi",Deepto TV
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangladeshi",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangladeshi",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="Bangladeshi",Boishakhi TV
-https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="Bangladeshi",Green TV
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg" group-title="Bangladeshi",CHANNEL S HD
@@ -61,7 +59,7 @@ https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="Music",ATN Music
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla",Amar Bangla
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla",Amar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Indian Bangla",Enter 10 Bangla
