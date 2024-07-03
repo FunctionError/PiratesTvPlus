@@ -42,8 +42,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720041675/ei/a
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720041676/ei/bGyFZoj5GYeKkucPkJ2WkAY/ip/172.200.199.250/id/ZspT5PCIez8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAUFHqUXDLtaJPo7-lpQXAGujou8uHKcBbf7iDgPWbCM2AGzr5MqEzpcVdog/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMn4veSPMwS2NrcTVCC-fXF-CuNhk7dj3k4FDZ5P6n69AiAtFCdIjc9hJ-HIaevAI4hhOvfw1nXvkC-KCAk4--pEdw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k_0j90OAP3tEuBLbhr8eMPB7Dgu-xgLi3xFzG2KH0OtLKX=s176-c-k-c0x00ffffff-no-rj" group-title="Indian News",ABP NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720041676/ei/bGyFZvffNvmIkucPkuK2mAI/ip/172.200.199.250/id/lFyo2xStaSE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51214394/txs/51214391%2C51214392%2C51214393%2C51214394/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAUIjjmHNUSseaoYp7kL-VTxDG3diagvIP8D10D2fioI2OSFXHOvxjuSzU84/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK3xi469udDw5hIPjpHdNhOy6qRelonTppQ9diDu1jXQAiEAh6x6CRmsX6X7gI9A24m2coPy2tfjhaxa-Sfwq5qlfH4%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports",PTV Sports
-http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Sports",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HVTPBf7/download-2.jpg" group-title="Indian Bangla",Star Jalsha HD
@@ -65,6 +63,8 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Informative",DMAX
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Sports",T Sports HD
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sports",PTV Sports
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Informative",Discover Pakistan TV
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
