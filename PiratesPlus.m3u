@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" group-title="International News",DW News
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbVFfYfijJ0VrwhRpN02LYgy8GGK2PGE-4wBZzOw=s48-c-k-c0x00ffffff-no-rj" group-title="International News",CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737868836/ei/xHGVZ-O6FvrCsfIP98WCqQc/ip/20.169.14.176/id/XWq5kBlakcQ.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-PVzjerPlTPYZUf5EJ8b18CGD2EXb3ikdZ3DPc_hKVI9aA2TFRXjm6ahpXoKlQqv862Ul_8VBns/spc/9kzgDXVuEWileEwcG5sPUAyNTtGZlzPtoEA80Us1YWbqXZn-lB2q5ksgQ7UWKlM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgP5Y2up1sGwbo301FidqUZ0US3WUons00iWrfgnEfVxwCIG4o4X9VJxwe952HjxvJbH0V2TOk1UKCfefX_85SlQv9/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lYbTbvSwnfhpFV8qVUtpksrKJlthZTLi0ap9H_fcznABI=s176-c-k-c0x00ffffff-no-rj" group-title="Music",RTV Music
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/RRL8O751UsFCCL1U6tVCLlWr19skngM4dbAEb6EGE4Rcqqz842sf9bQGBk3IfnPlkcFvNyknyA=s176-c-k-c0x00ffffff-no-rj" group-title="Informative",Nat Geo WILD
@@ -57,7 +57,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="Music",ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla",Amar Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Kids",Sony Kal
