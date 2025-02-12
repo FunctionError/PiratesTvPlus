@@ -60,6 +60,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ruposhi%20Bangla.jpeg" group-title="Indian Bangla",Ruposhi Bangla
+https://web.fredflix.fun/mac.php?cid=113&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Kids",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Movies",The Movie Club
@@ -118,16 +120,16 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png" group-title="Music",9X Jalwa
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Sports",T Sports HD
+https://vkvsd219.okcdn.ru/hls/7719129975429.m3u8/sig/fNU_sxy76TY/expires/1739431598741/srcIp/134.209.146.240/urls/185.226.55.78/clientType/14/srcAg/CHROME_ANDROID/mid/8754317372293/7719129975429_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Sports",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Travel",Travel Channel
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports",T Sports HD
-https://vkvsd219.okcdn.ru/hls/7719129975429.m3u8/sig/fNU_sxy76TY/expires/1739431598741/srcIp/134.209.146.240/urls/185.226.55.78/clientType/14/srcAg/CHROME_ANDROID/mid/8754317372293/7719129975429_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Foods",Food Food
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Indian Entertainment",Colors Infinity SD
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Foods",Food Food
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Movies",Star Movies Select HD
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/x6jts96/download.png" group-title="Indian Bangla",Star Jalsha HD
