@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WvqgAuqN_-nN3HevMO32TMzz8apVPYOIsNvWiOYzO-PGV3sigctEmlJUzL1oQkpzlA62N2WseQ=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Maasranga News
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s176-c-k-c0x00ffffff-no-rj" group-title="International News",Al Jazeera English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747528330/ei/KtYoaMLqCP-hlu8P0Zus-Ag/ip/172.183.231.238/id/gCNeDWCI0vo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51477230/txs/51477230%2C51477231%2C51477232/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAb8qDvpvLzJvVu2OfrHJuPVZ1Hisrve_9JhIFGQyWd3AFeSz---I7W5k8cTrQZp5uMtC7C1iENG/spc/wk1kZtJJuEYEGk2Vi_0rViI9RGKDxqLOCYCHzvY8QbCu3-YYd6_fHTTBu7q8wFw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466697/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYOVNR8HWCVXPOEZYU58B0b0J9V6LLNnkxQzp7P-y1rwCIQDEkSawTcy_GFkllhXGimedqVQWxqBYb5UmsfpOSuHKEw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mGInWY5NqAdwf25hydl8yex5nuT7vcEqmoT4VKSyiDNLm3=s176-c-k-c0x00ffffff-no-rj" group-title="International News",Reuters
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/r2ZGA9E-wWJha_PIoNh8df3C_Y8uenieTqQ-Qj2-ibWQ6T__-mVxUvplOqoagFLsicskn-j3sw=s176-c-k-c0x00ffffff-no-rj" group-title="International News",WINO
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbVFfYfijJ0VrwhRpN02LYgy8GGK2PGE-4wBZzOw=s48-c-k-c0x00ffffff-no-rj" group-title="International News",CNA
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lYbTbvSwnfhpFV8qVUtpksrKJlthZTLi0ap9H_fcznABI=s176-c-k-c0x00ffffff-no-rj" group-title="Music",RTV Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Music",RTV Music
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/RRL8O751UsFCCL1U6tVCLlWr19skngM4dbAEb6EGE4Rcqqz842sf9bQGBk3IfnPlkcFvNyknyA=s176-c-k-c0x00ffffff-no-rj" group-title="Informative",Nat Geo WILD
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
@@ -46,8 +46,6 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangladeshi",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla",Amar Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Kids",Sony Kal
@@ -91,7 +89,7 @@ https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Informative",DMAX
 https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Foods",Food Network
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg" group-title="Kids",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Kids",Zoo Moo
