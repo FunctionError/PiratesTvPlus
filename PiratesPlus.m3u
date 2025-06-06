@@ -1,7 +1,7 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dcx8BUs_aHDYkGkTVhHpORuF1MOHI6ZM5AdG9pe9gm9Q_atfhEuq_-mO8l1h5q8qJZzlUzWSgw=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Somoy TV News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749245078/ei/NghDaMyGE4Xqir4PqdrR2AI/ip/20.125.212.26/id/_HQh08dd5nA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AY1jyLN-1DY3EkHaOUdsCc0rqq6nAOM6Fs2OP5GtMYAhEPJiOhXNYF8-MY_BarlYSV56-ZSyXnE17Z-G/spc/l3OVKVKF41pK5ZjCSuhzmQqi7xQ5Pxo6oh_XcTl0yp_qCtpfQ32PogbCSRhJ-vs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJscgHezAXlIe61Dl9Y3f1J7Jxrzk4lDXPzQcA5pnKHCAiEAmQYszQdSe0iqQoGULNAAJ-1oEv48BES0bWUxSyd0Q5I%3D/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0MjdgkrP1eId4ysNshsCnnnlzd2j1xHYecd9XqbVRDhs=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Jamuna TV
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SN5R2c_9uZrppnfXYz5NCXtsSMgYCHhV5hmUkoX8HR7aTY2zHPnzBY8mDJsG27Ip_O9d7tqRCw=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Rtv News
@@ -46,8 +46,6 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangladeshi",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla",Amar Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Kids",Sony Kal
