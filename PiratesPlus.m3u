@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WvqgAuqN_-nN3HevMO32TMzz8apVPYOIsNvWiOYzO-PGV3sigctEmlJUzL1oQkpzlA62N2WseQ=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Maasranga News
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s176-c-k-c0x00ffffff-no-rj" group-title="International News",Al Jazeera English
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752964300/ei/a8h7aKTiOdKM2_gPzfjboQI/ip/135.232.201.240/id/gCNeDWCI0vo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNN9JVpZyaabRUoDrq1qLc75c1dju6xw5BFtJumnUVtdR4t9JhgUTaj72BUVG9YdpdB1RkOaA7p/spc/l3OVKbpjSyksV81m9-2VZ16qfCJPpcaGwpHPg0vlhGgFk2NWhZvHhyvLcVduHLy3HxA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMQC3lN6di2NGi-TxqLndv1Rr25T80BfOeEeGkFKcXcfAiAS3WQlZ9-GipVF_auqUgT3Efh9zVk1kO0OI03W4L9wFQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mGInWY5NqAdwf25hydl8yex5nuT7vcEqmoT4VKSyiDNLm3=s176-c-k-c0x00ffffff-no-rj" group-title="International News",Reuters
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/r2ZGA9E-wWJha_PIoNh8df3C_Y8uenieTqQ-Qj2-ibWQ6T__-mVxUvplOqoagFLsicskn-j3sw=s176-c-k-c0x00ffffff-no-rj" group-title="International News",WINO
@@ -84,10 +84,10 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png" group-title="Music",9XM
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.mjunoon.tv:8181/logo/cartoon-network-logo-mjunoon.webp" group-title="Kids",Cartoon Network
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Sports",Star Sports 1 HD
-https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",Cartoon Network
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sports",Star Sports 1 HD
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Sports",T Sports HD
 https://tvsen5.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Sports",Redbull TV
