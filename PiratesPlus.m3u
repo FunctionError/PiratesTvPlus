@@ -2,7 +2,7 @@
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dcx8BUs_aHDYkGkTVhHpORuF1MOHI6ZM5AdG9pe9gm9Q_atfhEuq_-mO8l1h5q8qJZzlUzWSgw=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Somoy TV News
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0MjdgkrP1eId4ysNshsCnnnlzd2j1xHYecd9XqbVRDhs=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63K8YKmD/Jamuna-TV.jpg" group-title="Bangladeshi",Jamuna TV
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/SN5R2c_9uZrppnfXYz5NCXtsSMgYCHhV5hmUkoX8HR7aTY2zHPnzBY8mDJsG27Ip_O9d7tqRCw=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Rtv News
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangladeshi",BanglaVision
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Channel 24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1CCfh6n/Channel-24.jpg" group-title="Bangladeshi",Channel 24
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/eqxKhU9ty3Kr1CsG8bYcsAvXzEItOmE4qMxydBPg0i6w1jBiAiz6dJjnggYXz9mJQ1R05ZGv=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Ntv Live
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
@@ -88,8 +88,6 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.mjunoon.tv:8181/logo/cartoon-network-logo-mjunoon.webp" group-title="Kids",Cartoon Network
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports",T Sports HD
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Sports",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Bangladeshi",ATN News
@@ -104,6 +102,8 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Sports",Star Sports 1
 https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sports",T Sports HD
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangladeshi",Ekushey TV
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Bangladeshi",Global TV
