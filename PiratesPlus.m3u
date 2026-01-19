@@ -84,6 +84,8 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png" group-title="Music",Zoom
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Informative",Animal Planet
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Foods",Food Food
 https://mumt03.tangotv.in/FOODFOOD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Sports",Redbull TV
@@ -93,8 +95,6 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png" group-title="Indian Entertainment",Colors HD
 https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Kids",Cartoon Network
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Informative",Animal Planet
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Travel",Travel XP English SE
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
